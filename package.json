@@ -25,6 +25,7 @@
     "superjson": "1.12.2",
     "zod": "^3.21.4"
   },
+  "packageManager": "pnpm@8.1.0",
   "devDependencies": {
     "@types/eslint": "^8.21.3",
     "@types/node": "^18.15.5",
