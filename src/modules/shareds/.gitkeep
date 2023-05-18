@@ -1,0 +1,3 @@
+// Put shared component mostly used in many pages or modules,
+// Mostly put components from shadcn
+// (Not recommended to create folders in this folder)
